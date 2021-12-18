@@ -1,6 +1,8 @@
 # TreeDisplay
 A simple header file that prints out a tree in an easy to read format
 
+** Note: currently the printout is broken on windows **
+
 ## Usage
 In order to use the header file you must first make 2 changes to your Tree:
 
